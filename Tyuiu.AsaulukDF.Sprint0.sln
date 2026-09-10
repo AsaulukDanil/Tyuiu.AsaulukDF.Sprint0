@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{D617A409-5E98-4F18-9AE3-2017542F9063}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AsaulukDF.Sprint0.Task0.V0", "Tyuiu.AsaulukDF.Sprint0.Task0.V0\Tyuiu.AsaulukDF.Sprint0.Task0.V0.csproj", "{D971EA37-3896-47B8-BD06-D65A60D09D9A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{E275C187-8208-4D7B-A703-55944E3022C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AsaulukDF.Sprint0.Task1.V0", "Tyuiu.AsaulukDF.Sprint0.Task1.V0\Tyuiu.AsaulukDF.Sprint0.Task1.V0.csproj", "{0D0CB0A1-A731-444E-95FD-1FC501E949B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D971EA37-3896-47B8-BD06-D65A60D09D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D971EA37-3896-47B8-BD06-D65A60D09D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D971EA37-3896-47B8-BD06-D65A60D09D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D971EA37-3896-47B8-BD06-D65A60D09D9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D0CB0A1-A731-444E-95FD-1FC501E949B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D0CB0A1-A731-444E-95FD-1FC501E949B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D0CB0A1-A731-444E-95FD-1FC501E949B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D0CB0A1-A731-444E-95FD-1FC501E949B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D971EA37-3896-47B8-BD06-D65A60D09D9A} = {D617A409-5E98-4F18-9AE3-2017542F9063}
+		{0D0CB0A1-A731-444E-95FD-1FC501E949B8} = {E275C187-8208-4D7B-A703-55944E3022C2}
+	EndGlobalSection
+EndGlobal
