@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<RootNamespace>Tyuiu.AsaulukDF.Sprint0.Task2.V0.Lib</RootNamespace>
+	</PropertyGroup>
+
+</Project>
