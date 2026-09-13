@@ -1,9 +1,18 @@
-﻿namespace Tyuiu.AsaulukDF.Sprint0.Task1.V0;
+﻿using System;
 
-class Program
+namespace Tyuiu.KukhtikovYA.Sprint0.Task1.V0
 {
-    static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("Hello, World!");
-    } 
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+
+            string name = "Данил";
+            int age = 21;
+            
+            Console.WriteLine("Здравствуйте меня зовут " + name + " мне " + age + " лет.");
+            Console.ReadKey();
+        }
+    }
 }
